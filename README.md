@@ -1,4 +1,4 @@
-XCTestCase-ExpectationWithCondition
+XCTestCase+ExpectationWithCondition
 ===================================
 
 extension of XCTestCase to create XCTestExpectation which waits for the condition to be fulfilled. 
